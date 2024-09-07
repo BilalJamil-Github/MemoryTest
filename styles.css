@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(49, 48, 48);
+}
+
+#main_div {
+    text-align: center;
+}
+
+#sub_div {
+    display: inline-flex;
+}
+
+.boxes {
+    padding: 40px;
+    border: 4px solid rgb(153, 51, 51);
+    width: 70px;
+    height: 70px;
+    background: linear-gradient(rgb(184, 184, 245), rgb(243, 198, 205));
+}
